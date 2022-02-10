@@ -6,5 +6,6 @@ public class Main {
 
         System.out.println("Hello there from far away my friend.");
         System.out.println("Update test");
+        System.out.println("Update test 2 ");
     }
 }
