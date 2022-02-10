@@ -1,6 +1,8 @@
 /**
  * Created by Baran on 03/02/2022.
  */
+package com.simplilearn;
+
 public class Main {
     public static void main(String[] args) {
 
